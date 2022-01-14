@@ -17,3 +17,5 @@ Erik showed me how to install Visual Studio, and make a folder and make a file (
 After installing gitbash we decided to hold off on uploading it to github, and instead focusing on learning how to use markdown to a development dairy for my mentorship. To help get my self familiar with markdown, he showed my the markdown cheat sheet, to learn how to format with the language. 
 
 ---
+## [January 14th] Learning Git
+The very first project update!
