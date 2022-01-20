@@ -29,29 +29,29 @@ The very first project update! That was today's goal, before getting into the ma
 
 ---
 ## **[Github Desktop](https://desktop.github.com/)**
-One more way of using git is with a GUI (guided user interface). Unlike using a terminal which comes with any computer, it allows for easier commands with the press of a button, it also displays more information at a time making it easier to visualize your actions.
+One more way of using git is with a GUI (graphical user interface). Unlike using a terminal which comes with any computer, it allows for easier commands with the press of a button, it also displays more information at a time making it easier to visualize your actions.
 
 ## **Making a Repository**
 Before I can update any changes I must make a project on Github, which the first part is as easy as naming a project and setting up some basic settings, but next comes the code.
->- cd (desired destination)
->- dir
->- git init
->- git remote add origin (github repository)
->- git remote -v
->- git statis
->- git add README.md
->- git commit -m "initial commit"
->- git status
->- git push -u origin main
+>- `cd (desired destination)`
+>- `dir`
+>- `git init`
+>- `git remote add origin (github repository)`
+>- `git remote -v`
+>- `git status`
+>- `git add README.md`
+>- `git commit -m "initial commit"`
+>- `git status`
+>- `git push -u origin main`
 
 ## **Updating a Repository**
 Now that a repository has  been made, I need to update any  changed I make to the file. This is a much more simple process but is still enacted by the following lines of code.
->- cd (desired destination)
->- dir
->- git status
->- git add README.md
->- git status
->- git commit -m (message)
->- git status
->- git push -u origin main
+>- `cd (desired destination)`
+>- `dir`
+>- `git status`
+>- `git add README.md`
+>- `git status`
+>- `git commit -m (message)`
+>- `git status`
+>- `git push -u origin main`
 ---
